@@ -307,4 +307,4 @@ Date: 2025년 2월 26일
 
 ---
 
-[HTML5 태그 기본 part1 퀴즈와 연습문제.md](https://linen-artichoke-b37.notion.site/HTML5-part1-1b32ad07fb2080e2a176e49896d82907?pvs=4))
+[HTML5 태그 기본 part1 퀴즈와 연습문제.md](https://linen-artichoke-b37.notion.site/HTML5-part1-1b32ad07fb2080e2a176e49896d82907?pvs=4)

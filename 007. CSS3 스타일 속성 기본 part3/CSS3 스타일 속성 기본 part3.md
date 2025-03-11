@@ -214,4 +214,4 @@ Date: 2025년 3월 6일
 
 ---
 
-[CSS3 스타일 속성 기본 part3 퀴즈와 연습문제](https://linen-artichoke-b37.notion.site/CSS3-part3-1ae2ad07fb2080d282bdf309db93c5cc?pvs=4)
+[CSS3 스타일 속성 기본 part3 퀴즈와 연습문제](https://linen-artichoke-b37.notion.site/CSS3-part3-1b32ad07fb2080eab32ad60543c1b5d8?pvs=4)
