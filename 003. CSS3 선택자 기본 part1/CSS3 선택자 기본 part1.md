@@ -189,4 +189,4 @@ CSS 선택자를 이용하면 특정 태그나 요소에 대해 스타일이나 
 
 ---
 
-[퀴즈와 연습문제](%E1%84%8F%E1%85%B1%E1%84%8C%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6%201b32ad07fb2080edb2c0d22c2b4ce97c.md)
+[CSS3 선택자 기본 part1 퀴즈와 연습문제](https://linen-artichoke-b37.notion.site/CSS3-part1-1b32ad07fb2080edb2c0d22c2b4ce97c?pvs=4)

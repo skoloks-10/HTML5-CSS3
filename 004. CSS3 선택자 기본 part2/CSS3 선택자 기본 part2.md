@@ -264,4 +264,4 @@ CSS에서는 특정 상태나 구조의 요소를 선택하기 위해 여러 가
 
 ---
 
-[퀴즈와 연습문제](%E1%84%8F%E1%85%B1%E1%84%8C%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6%201b32ad07fb2080639fddc7666ddbd4b3.md)
+[CSS3 선택자 기본 part2 퀴즈와 연습문제](https://linen-artichoke-b37.notion.site/CSS3-part2-1b32ad07fb2080639fddc7666ddbd4b3?pvs=4)

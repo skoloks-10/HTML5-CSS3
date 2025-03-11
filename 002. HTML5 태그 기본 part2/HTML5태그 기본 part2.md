@@ -376,4 +376,4 @@ Date: 2025년 2월 27일
 
 ---
 
-[퀴즈와연습문제](%E1%84%8F%E1%85%B1%E1%84%8C%E1%85%B3%E1%84%8B%E1%85%AA%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6%201b32ad07fb20803e9c68c344a991a3e5.md)
+[HTML5태그 기본 part2 퀴즈와연습문제](https://linen-artichoke-b37.notion.site/HTML5-part2-1b32ad07fb20803e9c68c344a991a3e5?pvs=4)
