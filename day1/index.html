@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Incrementer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>시간 증가기</h1>
+        <label for="start-time">시작 시간:</label>
+        <input type="datetime-local" id="start-time" name="start-time">
+        <button onclick="generateTimes()">시간 생성</button>
+        <button onclick="copyToClipboard()">결과 복사</button>
+        <ul id="time-list"></ul>
+        <textarea id="csv-output" style="display: none;"></textarea>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
